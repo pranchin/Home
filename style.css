@@ -98,7 +98,7 @@ button{
     transition: transform 0.5s;
 }
 .card1{
-    background-image: url(images/pic1.jpg);
+    background-image: url(pic1.jpg);
 }
 .card2{
     background-image: url(images/pic2.jpg);
